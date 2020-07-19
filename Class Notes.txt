@@ -1,0 +1,83 @@
+- Assertion
+- Correlation
+- Pre & Post Processor
+- Timer
+- Recording
+- Reporting
+- API
+- Bean Shell
+- Reports
+-Perfmon
+- Distributed Server
+- Database testing using jmeter
+
+
+
+Mobile performance info
+
+
+
+
+An error occurred: Listen failed on port: 0; nested exception is:
+        java.io.FileNotFoundException: rmi_keystore.jks (The system cannot find the file specified)
+errorlevel=1
+
+
+Assertion
+- Response
+- Duration
+- Size
+-HTML
+-XML
+
+
+
+Controller
+- Simple controller: used to group the request
+- Only Once Controller
+
+
+Scenario:
+1) login and search a product
+2) login and order a product
+3) login and cancel a product
+
+
+
+
+TestFragment:
+- places the req inside it
+- request gets executed when called from controllers like module controller and include controller
+
+
+
+Include controller
+login
+search
+order
+cancel
+
+
+
+Processor
+- Pre processor
+- Post processor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
